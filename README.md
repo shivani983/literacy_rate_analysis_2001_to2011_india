@@ -11,7 +11,7 @@ This project analyzes literacy trends in India using Government of India data fr
 
 ## Files
 - `literacy_analysis_report.pdf`: Summary report
-- `literacy_analysis.ipynb`: Jupyter notebook with data analysis
+- `images/.png`: images with data analysis
 
 ## Data Source
 - kaggle
